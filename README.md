@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Achiles Matheus</h1>
-<h3 align="center">Hello, my name is Achiles Matheus. I'm a FrontEnd developer starting in this technological universe. I like to create solutions always looking for continuous learning. I have as objectives, the creation of products that meet the expectations of the customers, the effective resolution of problems and the addition of value to the people around me. My Hobbies are: Games and gym (Sometimes: D).</h3>
+<h1 align="left">Hi 👋, I'm Achiles Matheus</h1>
+<h3 align="left">  Hello, my name is Achiles Matheus. I'm a FrontEnd developer starting in this technological universe. I like to create solutions always looking for continuous learning.<br>
+I have as objectives, the creation of products that meet the expectations of the customers, the effective resolution of problems and the addition of value to the people around me.<br>
+My Hobbies are: Games and gym (Sometimes: D).</h3>
 
 - 🌱 I’m currently learning **Css and Javascript - Advanced concepts**
 

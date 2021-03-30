@@ -18,6 +18,6 @@ My Hobbies are: Games and gym (Sometimes: D).</h3>
 <br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=achilesmatheus&show_icons=true&locale=en&layout=compact" alt="achilesmatheus" /></p>
-
+<br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=achilesmatheus&show_icons=true&locale=en" alt="achilesmatheus" /></p>
 

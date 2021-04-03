@@ -3,6 +3,10 @@
 I have as objectives, the creation of products that meet the expectations of the customers, the effective resolution of problems and the addition of value to the people around me.<br><br>
 My Hobbies are: Games and gym (Sometimes: D).</h3>
 
+<h3>I have predominantly intrapersonal intelligence, according to Howard Gardner's Theory of Multiple Intelligences ".
+My Soft Skills are: Problem Solving, Creativity and Stress Management</h3>
+<br>
+
 - 🌱 I’m currently learning **Css and Javascript - Advanced concepts**
 
 - 📫 How to reach me **achiles1707@gmail.com**

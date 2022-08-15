@@ -1,0 +1,43 @@
+.header {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 2rem 1rem;
+}
+
+.nav {
+  display: flex;
+}
+
+.nav_title {
+  text-transform: uppercase;
+  flex: 1;
+  font-size: 1.5rem;
+}
+
+.nav_menu {
+  display: flex;
+  gap: 2rem;
+}
+
+.nav_menu .nav_menu_item a {
+  text-decoration: none;
+  color: var(--primary-color);
+  padding: 1rem 0 1rem 1rem;
+  font-size: 1rem;
+}
+
+.nav_menu .nav_menu_item::after {
+  content: "";
+  background-color: var(--secondary-color);
+  display: block;
+  width: 0;
+  height: 0.1rem;
+  transition: 0.15s ease;
+}
+
+.nav_menu .nav_menu_item:hover::after {
+  content: "";
+  display: block;
+  width: 100%;
+  height: 0.1rem;
+}

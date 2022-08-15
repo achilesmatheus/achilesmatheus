@@ -1,0 +1,37 @@
+section#qualifications {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 2rem 1rem;
+}
+
+.qualifications_title {
+  font-size: 6rem;
+  color: var(--secondary-color);
+}
+
+.curses_list {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 2rem;
+  margin-top: 2rem;
+}
+
+.curse {
+  border: 0.1rem solid var(--primary-color);
+  padding: 2rem;
+  position: relative;
+}
+
+.curse a {
+  display: inline-block;
+  margin-top: 1rem;
+  background-color: var(--primary-color);
+  color: var(--tertiary-color);
+  padding: 0.5rem 0.1rem;
+  border: 0.1rem solid transparent;
+  outline: 0.2rem solid #000;
+}
+
+.curse a:hover {
+  border-color: #fff;
+}

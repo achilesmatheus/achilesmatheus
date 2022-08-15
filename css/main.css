@@ -1,0 +1,35 @@
+.main_content {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 2rem 1rem;
+}
+
+.main_content .description h1 {
+  margin-bottom: 2rem;
+  font-size: 6rem;
+  display: flex;
+  gap: 2rem;
+  color: var(--primary-color);
+}
+
+.main_content h1::before {
+  content: "";
+  width: 0.2rem;
+  background-color: var(--secondary-color);
+  display: block;
+}
+
+.main_content .soft_skills {
+  text-align: center;
+  margin: 4rem 0;
+}
+
+.main_content .soft_skills h1 {
+  padding: 1rem;
+}
+
+.main_content .soft_skills span {
+  border: 1px solid;
+  display: inline-block;
+  padding: 0.5rem;
+}

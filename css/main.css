@@ -27,6 +27,7 @@
 
 .main_content .soft_skills h1 {
   padding: 1rem;
+  font-size: 2rem;
 }
 
 .main_content .soft_skills .soft_skills_list {
@@ -66,5 +67,9 @@
   }
   .main_content .soft_skills {
     margin: 2rem 0;
+  }
+
+  .main_content .soft_skills h1 {
+    font-size: 1rem;
   }
 }

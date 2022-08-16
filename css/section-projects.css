@@ -6,6 +6,12 @@ section#projects {
   grid-template-columns: 1fr 2fr;
 }
 
+.project_list {
+  display: flex;
+  flex-direction: column;
+  gap: 3rem;
+}
+
 .projects_title {
   font-size: 6rem;
   word-break: break-all;
@@ -18,7 +24,6 @@ section#projects {
   border: 0.2rem solid var(--secondary-color);
   padding: 2rem;
   position: relative;
-  margin-bottom: 3rem;
 }
 
 .project_year {
@@ -63,4 +68,20 @@ a.project_title:hover {
   width: 0.5rem;
   height: 0.1rem;
   background-color: var(--primary-color);
+}
+
+@media (max-width: 450px) {
+  section#projects {
+    grid-template-columns: 1fr;
+    padding: 1rem;
+  }
+  .projects_title {
+    font-size: 2rem;
+    writing-mode: initial;
+    max-width: none;
+    text-align: center;
+  }
+  .project_list {
+    margin-top: 2rem;
+  }
 }

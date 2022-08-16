@@ -93,3 +93,9 @@ a.project_title:hover {
     margin-top: 2rem;
   }
 }
+
+@media (max-width: 450px) {
+  .projects_title {
+    font-size: 2rem;
+  }
+}

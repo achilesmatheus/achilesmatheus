@@ -54,6 +54,12 @@ section#contact {
     align-items: center;
   }
   .contact_title {
+    font-size: 3rem;
+  }
+}
+
+@media (max-width: 450px) {
+  .contact_title {
     font-size: 2rem;
   }
 }

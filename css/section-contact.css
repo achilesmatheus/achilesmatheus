@@ -14,7 +14,7 @@ section#contact {
 
 .contact_title {
   text-align: center;
-  font-size: 3rem;
+  font-size: 6rem;
 }
 
 .contact_links {
@@ -40,6 +40,12 @@ section#contact {
   display: flex;
   flex-wrap: wrap;
   gap: 1rem;
+}
+
+@media (max-width: 820px) {
+  .contact_title {
+    font-size: 4rem;
+  }
 }
 
 @media (max-width: 700px) {

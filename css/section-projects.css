@@ -17,7 +17,7 @@ section#projects {
   word-break: break-all;
   writing-mode: vertical-lr;
   max-width: 4ch;
-  color: var(--secondary-color);
+  color: var(--primary-color);
 }
 
 .project {
@@ -28,7 +28,7 @@ section#projects {
 
 .project_year {
   position: absolute;
-  background-color: var(--secondary-color);
+  background-color: var(--primary-color);
   color: var(--primary-color);
   padding: 1rem 2rem;
   top: 0;

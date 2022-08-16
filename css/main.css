@@ -4,9 +4,8 @@
   padding: 2rem 1rem;
 }
 
-.main_content .description h1 {
+.main_content .description .description_title {
   margin-bottom: 2rem;
-  font-size: 5rem;
   display: flex;
   gap: 2rem;
   color: var(--primary-color);
@@ -22,12 +21,11 @@
 
 .main_content .soft_skills {
   text-align: center;
-  margin: 4rem 0;
 }
 
-.main_content .soft_skills h1 {
-  padding: 1rem;
+.main_content .soft_skills h3 {
   font-size: 2rem;
+  margin: 2rem 0;
 }
 
 .main_content .soft_skills .soft_skills_list {
@@ -54,8 +52,8 @@
     padding: 1rem;
   }
 
-  .main_content .description h1 {
-    font-size: 2rem;
+  .main_content .description .description_title {
+    font-size: 3rem;
     flex-direction: column;
     margin: 0 auto;
     gap: 1rem;
@@ -66,10 +64,15 @@
     height: 0.2rem;
   }
   .main_content .soft_skills {
-    margin: 2rem 0;
   }
 
-  .main_content .soft_skills h1 {
+  .main_content .soft_skills h3 {
     font-size: 1.5rem;
+  }
+}
+
+@media (max-width: 450px) {
+  .main_content .description .description_title {
+    font-size: 2rem;
   }
 }

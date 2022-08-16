@@ -47,12 +47,15 @@ section#qualifications {
     padding: 1rem;
   }
   .qualifications_title {
-    font-size: 2rem;
+    font-size: 3rem;
+  }
+  .curses_list {
+    grid-template-columns: 1fr;
   }
 }
 
 @media (max-width: 450px) {
-  .curses_list {
-    grid-template-columns: 1fr;
+  .qualifications_title {
+    font-size: 2rem;
   }
 }

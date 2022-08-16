@@ -3,7 +3,8 @@ section#projects {
   margin: 0 auto;
   padding: 2rem 1rem;
   display: grid;
-  grid-template-columns: 1fr 2fr;
+  grid-template-columns: min-content 1fr;
+  gap: 2rem;
 }
 
 .project_list {

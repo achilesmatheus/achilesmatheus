@@ -44,94 +44,131 @@
 
     <section id="projects">
       <h1 class="projects_title">Projetos</h1>
-      <div class="project_list">
-        <div class="project">
-          <span class="project_year">2022</span>
-          <h1 class="project_title">Bikcraft</h1>
-          <a
-            href="https://bikcraft-01.vercel.app/"
-            target="_blank"
-            class="project_link"
-            >Demonstração</a
-          >
-          <span>-</span>
-          <a
-            href="https://github.com/achilesmatheus/bikcraft-01"
-            target="_blank"
-            class="project_link"
-            >Github</a
-          >
-          <p class="project_description">
-            Site responsivo criado no curso do professor André Rafael -
-            Origamid. Flexbox, Grid Layout e tema escuro.
-          </p>
-          <span class="project_link">Habilidades</span>
-          <ul class="project_skills">
-            <li>HTML</li>
-            <li>CSS</li>
-            <li>JavaScript</li>
-            <li>UI Design</li>
-          </ul>
-        </div>
+      <!-- <h3 class="filter_title">Filtros</h3> -->
 
-        <div class="project">
-          <span class="project_year">2022</span>
-          <h1 class="project_title">Brafé</h1>
+      <div class="filter_list">
+        <input
+          type="radio"
+          data-label="Todos"
+          name="filter"
+          id="all"
+          value="all"
+          hidden
+          checked
+        />
+        <input
+          type="radio"
+          data-label="2021"
+          name="filter"
+          id="2021"
+          value="2021"
+          hidden
+        />
+        <input
+          type="radio"
+          data-label="2022"
+          name="filter"
+          id="2022"
+          value="2022"
+          hidden
+        />
 
-          <a
-            href="https://brafe-rho.vercel.app/"
-            target="_blank"
-            class="project_link"
-            >Demonstração</a
-          >
-          <span>-</span>
-          <a
-            href="https://github.com/achilesmatheus/brafe"
-            target="_blank"
-            class="project_link"
-            >Github</a
-          >
-          <p class="project_description">
-            Site responsivo criado no curso do professor André Rafael -
-            Origamid. Sistema de Grid próprio com 12 colunas utilizando Float e
-            clear fix.
-          </p>
-          <span class="project_link">Habilidades</span>
-          <ul class="project_skills">
-            <li>HTML</li>
-            <li>CSS</li>
-            <li>UI Design</li>
-          </ul>
-        </div>
+        <ul class="filter_buttons">
+          <li data-label="Todos"><label for="all">Todos</label></li>
+          <li data-label="2021"><label for="2021">2021</label></li>
+          <li data-label="2022"><label for="2022">2022</label></li>
+        </ul>
 
-        <div class="project">
-          <span class="project_year">2021</span>
-          <h1 class="project_title">React Dogs</h1>
-          <a
-            href="https://react-dogs-kappa.vercel.app/"
-            target="_blank"
-            class="project_link"
-            >Demonstração</a
-          >
-          <span>-</span>
-          <a
-            href="https://github.com/achilesmatheus/react-dogs"
-            target="_blank"
-            class="project_link"
-            >Github</a
-          >
-          <p class="project_description">
-            Projeto criado no curso do professor André Rafael - Origamid. Rede
-            social com fotos de cães.
-          </p>
-          <span class="project_link">Habilidades</span>
-          <ul class="project_skills">
-            <li>HTML</li>
-            <li>CSS</li>
-            <li>JavaScript</li>
-            <li>React</li>
-            <li>UI Design</li>
-          </ul>
+        <!-- Projects -->
+        <div class="project_list">
+          <div class="project" data-category="2022">
+            <span class="project_year">2022</span>
+            <h1 class="project_title">Bikcraft</h1>
+            <a
+              href="https://bikcraft-01.vercel.app/"
+              target="_blank"
+              class="project_link"
+              >Demonstração</a
+            >
+            <span>-</span>
+            <a
+              href="https://github.com/achilesmatheus/bikcraft-01"
+              target="_blank"
+              class="project_link"
+              >Github</a
+            >
+            <p class="project_description">
+              Site responsivo criado no curso do professor André Rafael -
+              Origamid. Flexbox, Grid Layout e tema escuro.
+            </p>
+            <span class="project_link">Habilidades</span>
+            <ul class="project_skills">
+              <li>HTML</li>
+              <li>CSS</li>
+              <li>JavaScript</li>
+              <li>UI Design</li>
+            </ul>
+          </div>
+
+          <div class="project" data-category="2022">
+            <span class="project_year">2022</span>
+            <h1 class="project_title">Brafé</h1>
+
+            <a
+              href="https://brafe-rho.vercel.app/"
+              target="_blank"
+              class="project_link"
+              >Demonstração</a
+            >
+            <span>-</span>
+            <a
+              href="https://github.com/achilesmatheus/brafe"
+              target="_blank"
+              class="project_link"
+              >Github</a
+            >
+            <p class="project_description">
+              Site responsivo criado no curso do professor André Rafael -
+              Origamid. Sistema de Grid próprio com 12 colunas utilizando Float
+              e clear fix.
+            </p>
+            <span class="project_link">Habilidades</span>
+            <ul class="project_skills">
+              <li>HTML</li>
+              <li>CSS</li>
+              <li>UI Design</li>
+            </ul>
+          </div>
+
+          <div class="project" data-category="2021">
+            <span class="project_year">2021</span>
+            <h1 class="project_title">React Dogs</h1>
+            <a
+              href="https://react-dogs-kappa.vercel.app/"
+              target="_blank"
+              class="project_link"
+              >Demonstração</a
+            >
+            <span>-</span>
+            <a
+              href="https://github.com/achilesmatheus/react-dogs"
+              target="_blank"
+              class="project_link"
+              >Github</a
+            >
+            <p class="project_description">
+              Projeto criado no curso do professor André Rafael - Origamid. Rede
+              social com fotos de cães.
+            </p>
+            <span class="project_link">Habilidades</span>
+            <ul class="project_skills">
+              <li>HTML</li>
+              <li>CSS</li>
+              <li>JavaScript</li>
+              <li>React</li>
+              <li>UI Design</li>
+            </ul>
+          </div>
         </div>
       </div>
     </section>

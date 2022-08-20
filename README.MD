@@ -4,8 +4,11 @@ I have as objectives, the creation of products that meet the expectations of the
 My Hobbies are: Games and gym (Sometimes: D).</h3>
 
 <h3>I have predominantly intrapersonal intelligence, according to Howard Gardner's Theory of Multiple Intelligences ".
-My Soft Skills are: Problem Solving, Creativity and Stress Management</h3>
+My Soft Skills are: Problem Solving, Team work and Resilience</h3>
 <br>
+
+<h3 align="left">Portfólio</h3>
+https://achilesmatheus.vercel.app/
 
 - 🌱 I’m currently learning **Css and Javascript - Advanced concepts**
 

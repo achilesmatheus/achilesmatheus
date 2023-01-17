@@ -15,7 +15,7 @@ https://achilesmatheus.vercel.app/
 - [Svelte guide - In portuguese](https://guia-svelte.vercel.app/)
 - [Svelte examples](https://svelte-examples-three.vercel.app/)
 
-### 📚 I’m currently learning:
+### 📚 I’m currently learning
   - **Css and Javascript - Advanced concepts**
   - **Svelte**
   - **Sveltekit**

@@ -7,18 +7,20 @@ My Hobbies are: Games and gym (Sometimes: D).</h3>
 My Soft Skills are: Problem Solving, Team work and Resilience</h3>
 <br>
 
-<h3 align="left">Portfólio</h3>
+### 👨‍🚀 Portfólio
 https://achilesmatheus.vercel.app/
 
-<h3 align="left">Relevant projects</h3>
-- [Svelte guide - In portuguese](https://guia-svelte.vercel.app/)
+### ⚒️ Relevant projects
 
-- 🌱 I’m currently learning:
+- [Svelte guide - In portuguese](https://guia-svelte.vercel.app/)
+- [Svelte examples](https://svelte-examples-three.vercel.app/)
+
+### 📚 I’m currently learning:
   - **Css and Javascript - Advanced concepts**
   - **Svelte**
   - **Sveltekit**
 
-- 📫 How to reach me **achiles1707@gmail.com**
+### 📧 How to reach me **achiles1707@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -12,7 +12,6 @@ https://achilesmatheus.vercel.app/
 
 <h3 align="left">Relevant projects</h3>
 - [Svelte guide - In portuguese](https://guia-svelte.vercel.app/)
-- [Svelte examples](https://svelte-examples-three.vercel.app/)
 
 - 🌱 I’m currently learning:
   - **Css and Javascript - Advanced concepts**

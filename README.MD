@@ -10,7 +10,10 @@ My Soft Skills are: Problem Solving, Team work and Resilience</h3>
 <h3 align="left">Portfólio</h3>
 https://achilesmatheus.vercel.app/
 
-- 🌱 I’m currently learning **Css and Javascript - Advanced concepts**
+- 🌱 I’m currently learning:
+  - **Css and Javascript - Advanced concepts**
+  - **Svelte**
+  - **Sveltekit**
 
 - 📫 How to reach me **achiles1707@gmail.com**
 

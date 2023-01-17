@@ -11,11 +11,8 @@ My Soft Skills are: Problem Solving, Team work and Resilience</h3>
 https://achilesmatheus.vercel.app/
 
 <h3 align="left">Relevant projects</h3>
-[GitHub Pages](https://pages.github.com/)
-
-
 - [Svelte guide - In portuguese](https://guia-svelte.vercel.app/)
-- https://svelte-examples-three.vercel.app/
+- [Svelte examples](https://svelte-examples-three.vercel.app/)
 
 - 🌱 I’m currently learning:
   - **Css and Javascript - Advanced concepts**

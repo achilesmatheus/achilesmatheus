@@ -19,6 +19,9 @@ https://achilesmatheus.vercel.app/
   - **Css and Javascript - Advanced concepts**
   - **Svelte**
   - **Sveltekit**
+  - **C#**
+  - **.NET**
+  - **SQLServer**
 
 ### 📧 How to reach me 
 - **achiles1707@gmail.com**

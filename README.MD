@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Achiles Matheus</h1>
-<h3 align="left">&nbsp&nbspHello, my name is Achiles Matheus. I'm a FrontEnd developer starting in this technological universe. I like to create solutions always looking for continuous learning.<br>
+<h3 align="left">&nbsp&nbspHello, my name is Achiles Matheus. I'm a Backend developer starting in this technological universe. I like to create solutions always looking for continuous learning.<br>
 I have as objectives, the creation of products that meet the expectations of the customers, the effective resolution of problems and the addition of value to the people around me.<br><br>
 My Hobbies are: Games and gym (Sometimes: D).</h3>
 
@@ -7,20 +7,10 @@ My Hobbies are: Games and gym (Sometimes: D).</h3>
 My Soft Skills are: Problem Solving, Team work and Resilience</h3>
 <br>
 
-### 👨‍🚀 Portfólio
-https://achilesmatheus.vercel.app/
-
-### ⚒️ Relevant projects
-
-- [Svelte guide - In portuguese](https://guia-svelte.vercel.app/)
-- [Svelte examples](https://svelte-examples-three.vercel.app/)
-
-### 📚 I’m currently learning
-  - **Css and Javascript - Advanced concepts**
-  - **Svelte**
-  - **Sveltekit**
+### 📚 I’m currently studyng
   - **C#**
   - **.NET**
+  - **Aspnet**
   - **SQLServer**
 
 ### 📧 How to reach me 

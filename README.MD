@@ -12,6 +12,9 @@ My Soft Skills are: Problem Solving, Team work and Resilience</h3>
   - **.NET**
   - **Aspnet**
   - **SQLServer**
+  - **Entity Framework**
+  - **SOLID concepts**
+  - **CLEAN CODE concepts**
 
 ### 📧 How to reach me 
 - **achiles1707@gmail.com**

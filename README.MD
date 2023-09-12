@@ -16,6 +16,10 @@ My Soft Skills are: Problem Solving, Team work and Resilience</h3>
   - **SOLID concepts**
   - **CLEAN CODE concepts**
 
+### Social
+- [DIO](https://www.dio.me/users/achiles_matheus)
+- [LinkedIn](https://www.linkedin.com/in/achilesmatheus/)
+
 ### 📧 How to reach me 
 - **achiles1707@gmail.com**
 

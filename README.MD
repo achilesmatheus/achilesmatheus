@@ -19,6 +19,7 @@ My Soft Skills are: Problem Solving, Team work and Resilience</h3>
 ### Social
 - [DIO](https://www.dio.me/users/achiles_matheus)
 - [LinkedIn](https://www.linkedin.com/in/achilesmatheus/)
+- [Instagram](https://www.instagram.com/achilesmatheus/)
 
 ### 📧 How to reach me 
 - **achiles1707@gmail.com**

@@ -1,6 +1,6 @@
 # Hi 👋, I'm Achiles Matheus.
 
-### Hello, my name is Achiles Matheus. I'm a Backend developer starting in this technological universe. I like to create solutions always looking for continuous learning. I have as objectives, the creation of products that meet the expectations of the customers, the effective resolution of problems and the addition of value to the people around me. <br> My Hobbies are: Games and gym (Sometimes: D). I have predominantly intrapersonal intelligence, according to Howard Gardner's Theory of Multiple Intelligences ". <br> My Soft Skills are: Problem Solving, Team work and Resilience
+### Hello, my name is Achiles Matheus. I'm a Backend developer starting in this technological universe. I like to create solutions always looking for continuous learning. I have as objectives, the creation of products that meet the expectations of the customers, the effective resolution of problems and the addition of value to the people around me. <br><br> My Hobbies are: Games and gym (Sometimes: D). I have predominantly intrapersonal intelligence, according to Howard Gardner's Theory of Multiple Intelligences ". <br><br> My Soft Skills are: Problem Solving, Team work and Resilience
 
 ### I’m currently studyng
   - **C#**

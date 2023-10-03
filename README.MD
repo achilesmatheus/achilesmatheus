@@ -1,14 +1,14 @@
-# Hi 👋, I'm Achiles Matheus
+# Hi 👋, I'm Achiles Matheus.
 
 ### Hello, my name is Achiles Matheus. I'm a Backend developer starting in this technological universe. I like to create solutions always looking for continuous learning.
 
-#### I have as objectives, the creation of products that meet the expectations of the customers, the effective resolution of problems and the addition of value to the people around me.<br><br>
-My Hobbies are: Games and gym (Sometimes: D)
+### I have as objectives, the creation of products that meet the expectations of the customers, the effective resolution of problems and the addition of value to the people around me.<br><br>
+My Hobbies are: Games and gym (Sometimes: D).
 
-#### I have predominantly intrapersonal intelligence, according to Howard Gardner's Theory of Multiple Intelligences ".</br>
+### I have predominantly intrapersonal intelligence, according to Howard Gardner's Theory of Multiple Intelligences ".
 My Soft Skills are: Problem Solving, Team work and Resilience
 
-### 📚 I’m currently studyng
+### I’m currently studyng
   - **C#**
   - **.NET**
   - **Aspnet**
@@ -22,10 +22,10 @@ My Soft Skills are: Problem Solving, Team work and Resilience
 - [LinkedIn](https://www.linkedin.com/in/achilesmatheus/)
 - [Instagram](https://www.instagram.com/achilesmatheus/)
 
-### 📧 How to reach me 
+### How to reach me 
 - **achiles1707@gmail.com**
 
-### 🔗 Connect with me
+### Connect with me
 <p align="left">
 <a href="https://fb.com/achiles.matheus" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="achiles.matheus" height="30" width="40" /></a>
 <a href="https://instagram.com/achilesmatheus" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="achilesmatheus" height="30" width="40" /></a>

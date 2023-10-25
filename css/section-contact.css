@@ -1,10 +1,8 @@
 section#contact {
-  width: 100vw;
-  max-width: 1200px;
+  max-width: 100vw;
   background-color: var(--secondary-color);
   display: grid;
   place-items: center;
-  margin: 0 auto;
   margin-top: 2rem;
   padding: 3rem 0;
 }

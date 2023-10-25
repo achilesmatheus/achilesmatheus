@@ -47,19 +47,23 @@ section#projects {
   cursor: pointer;
 }
 
-input[value="all"]:checked ~ .filter_buttons li[data-label="Todos"],
-input[value="2021"]:checked ~ .filter_buttons li[data-label="2021"],
-input[value="2022"]:checked ~ .filter_buttons li[data-label="2022"] {
+input[value='all']:checked ~ .filter_buttons li[data-label='Todos'],
+input[value='2021']:checked ~ .filter_buttons li[data-label='2021'],
+input[value='2022']:checked ~ .filter_buttons li[data-label='2022'],
+input[value='2023']:checked ~ .filter_buttons li[data-label='2023'] {
   background-color: var(--primary-color);
   color: var(--tertiary-color);
 }
 
-input[value="2021"]:checked
+input[value='2021']:checked
   ~ .project_list
-  .project:not([data-category~="2021"]),
-input[value="2022"]:checked
+  .project:not([data-category~='2021']),
+input[value='2022']:checked
   ~ .project_list
-  .project:not([data-category~="2022"]) {
+  .project:not([data-category~='2022']),
+input[value='2023']:checked
+  ~ .project_list
+  .project:not([data-category~='2023']) {
   display: none;
 }
 
@@ -117,7 +121,7 @@ a.project_link:hover {
 }
 
 .project_skills li::before {
-  content: "";
+  content: '';
   display: block;
   width: 0.5rem;
   height: 0.1rem;

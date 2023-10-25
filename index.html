@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta
       name="description"
-      content="Achiles Matheus Portfólio - Desenvolvedor Front-End."
+      content="Achiles Matheus Portfólio - Desenvolvedor Front-End React e Backend .NET/C#."
     />
     <link rel="stylesheet" href="css/style.css" />
     <title>Portfólio - Achiles Matheus</title>
@@ -27,7 +27,7 @@
 
     <main class="main_content">
       <div class="description">
-        <h1 class="description_title">Desenvolvedor <br />Front-End</h1>
+        <h1 class="description_title">Desenvolvedor <br />.Net/C# e React</h1>
       </div>
 
       <div class="soft_skills">
@@ -72,11 +72,20 @@
           value="2022"
           hidden
         />
+        <input
+          type="radio"
+          data-label="2023"
+          name="filter"
+          id="2023"
+          value="2023"
+          hidden
+        />
 
         <ul class="filter_buttons">
           <li data-label="Todos"><label for="all">Todos</label></li>
           <li data-label="2021"><label for="2021">2021</label></li>
           <li data-label="2022"><label for="2022">2022</label></li>
+          <li data-label="2023"><label for="2023">2023</label></li>
         </ul>
 
         <!-- Projects -->
@@ -159,6 +168,37 @@
             <p class="project_description">
               Projeto criado no curso do professor André Rafael - Origamid. Rede
               social com fotos de cães.
+            </p>
+            <span class="project_link">Habilidades</span>
+            <ul class="project_skills">
+              <li>HTML</li>
+              <li>CSS</li>
+              <li>JavaScript</li>
+              <li>React</li>
+              <li>UI Design</li>
+            </ul>
+          </div>
+
+          <div class="project" data-category="2023">
+            <span class="project_year">2023</span>
+            <h1 class="project_title">React Ibge</h1>
+            <a
+              href="https://react-ibge.vercel.app/"
+              target="_blank"
+              class="project_link"
+              >Demonstração</a
+            >
+            <span>-</span>
+            <a
+              href="https://github.com/achilesmatheus/react-ibge"
+              target="_blank"
+              class="project_link"
+              >Github</a
+            >
+            <p class="project_description">
+              Projeto criado para o desafio .Net da equipe balta.io. Fiz um
+              frontend em React para interagir com a api do Ibge, que foi
+              desenvolvida no desafio
             </p>
             <span class="project_link">Habilidades</span>
             <ul class="project_skills">

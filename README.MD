@@ -11,6 +11,7 @@
   - **SOLID concepts**
   - **CLEAN CODE concepts**
   - **React**
+  - **Typescript**
 
 ### Social
 - [DIO](https://www.dio.me/users/achiles_matheus)

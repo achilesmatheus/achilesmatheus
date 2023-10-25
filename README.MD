@@ -10,6 +10,7 @@
   - **Entity Framework**
   - **SOLID concepts**
   - **CLEAN CODE concepts**
+  - **React**
 
 ### Social
 - [DIO](https://www.dio.me/users/achiles_matheus)

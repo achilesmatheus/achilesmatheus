@@ -1,4 +1,4 @@
-# Hi 👋, I'm Achiles Matheus.
+# Oi 👋, Eu sou o Achiles Matheus.
 
 Olá, meu nome é Aquiles Matheus. Sou desenvolvedor Backend iniciando neste universo tecnológico. Gosto de criar soluções buscando sempre o aprendizado contínuo. Tenho como objetivos a criação de produtos que correspondam às expectativas dos clientes, a resolução eficaz de problemas e a adição de valor às pessoas que me rodeiam. <br><br> Meus hobbies são: Jogos e Academia (Às vezes: D). Possuo inteligência predominantemente intrapessoal, segundo a Teoria das Inteligências Múltiplas de Howard Gardner”. <br><br> Minhas Soft Skills são: Resolução de Problemas, Trabalho em Equipe e Resiliência
 

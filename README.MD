@@ -1,7 +1,7 @@
 # Oi 👋, Eu sou o Achiles.
 
 ### Sobre Mim
-Olá, meu nome é Achiles Matheus. Sou desenvolvedor .NET C#/React iniciando neste universo tecnológico. Gosto de criar soluções buscando sempre o aprendizado contínuo. Tenho como objetivos a criação de produtos que correspondam às expectativas dos clientes, a resolução eficaz de problemas e a adição de valor às pessoas que me rodeiam. <br><br> Meus hobbies são: Jogos e Academia (Às vezes: D). Possuo inteligência predominantemente intrapessoal, segundo a Teoria das Inteligências Múltiplas de Howard Gardner”. <br><br> Minhas Soft Skills são: Resolução de Problemas, Trabalho em Equipe e Resiliência
+Olá, meu nome é Achiles Matheus. Sou desenvolvedor .Net/C# e React iniciando neste universo tecnológico. Gosto de criar soluções buscando sempre o aprendizado contínuo. Tenho como objetivos a criação de produtos que correspondam às expectativas dos clientes, a resolução eficaz de problemas e a adição de valor às pessoas que me rodeiam. <br><br> Meus hobbies são: Jogos e Academia (Às vezes: D). Possuo inteligência predominantemente intrapessoal, segundo a Teoria das Inteligências Múltiplas de Howard Gardner”. <br><br> Minhas Soft Skills são: Resolução de Problemas, Trabalho em Equipe e Resiliência
 
 ### Estou estudando
   - **C#**

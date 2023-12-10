@@ -7,7 +7,7 @@ Olá, meu nome é Achiles Matheus. Sou desenvolvedor .Net/C# e React iniciando n
 
   - **Estrutura de Dados**
 
-### Estava Estudando. Fiz uma pausa para fortalecer os fundamentos
+### Fiz uma pausa nestes estudos para fortalecer os fundamentos
 
   - C#
   - .NET

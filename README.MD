@@ -7,15 +7,15 @@ Olá, meu nome é Achiles Matheus. Sou desenvolvedor .Net/C# e React iniciando n
   - **Estrutura de Dados**
 
 ### Estava Estudando. Fiz uma pausa para fortalecer os fundamentos
-  - **C#**
-  - **.NET**
-  - **Aspnet**
-  - **SQLServer**
-  - **Entity Framework**
-  - **SOLID concepts**
-  - **CLEAN CODE concepts**
-  - **React**
-  - **Typescript**
+  - C#
+  - .NET
+  - Aspnet
+  - SQLServer
+  - Entity Framework
+  - SOLID concepts
+  - CLEAN CODE concepts
+  - React
+  - Typescript
 
 ### Redes Sociais
 - [LinkedIn](https://www.linkedin.com/in/achilesmatheus/)
